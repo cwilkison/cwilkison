@@ -4,5 +4,6 @@ My name is Cole Wilkison, I am a Full Stack Web Developer who attended Lambda Sc
 
 I was born and raised in Charlotte, North Carolina and currently live here as well.  After finishing Lambda School I am hoping for work in the Charlotte area.  I love living here and make a great team member to any project.  Please checkout my repositories and feel free to contact me at wilkison.cole@gmail.com.
 
+I am confident in the following skills: HTML, CSS, Python, Node, JavaScript, Postman, SQL, Git, Unit Testing and Deployment.
 
-Programming Skills: HTML, CSS, Python, Node, React, Redux, JavaScript, Postman, SQL, Git, Algorithms, Data Structures, OOP, Unit Testing, Deployment
+I am interested and still learning: React, Redux, Alogrithms, Data Structures and OOP
